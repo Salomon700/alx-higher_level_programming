@@ -1,0 +1,1 @@
+This directory contains files related to the topic of Python import modules. It is a part of the "alx-higher_level_programming" repository and specifically belongs to the "0x02-python-import_modules" subdirectory. The files in this directory are likely to cover concepts and examples related to importing modules in Python.
