@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""define a file-appending function"""
+
 
 def append_write(filename="", text=""):
     """
@@ -6,7 +8,7 @@ def append_write(filename="", text=""):
        the number of characters
 
        Args:
-           filename(str: name of file to append to
+           filename(str): name of file to append to
            text(str):string to append to file.
        Returns:
             number of characters appended
